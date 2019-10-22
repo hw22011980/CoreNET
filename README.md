@@ -1,2 +1,10 @@
-# sipkd
-Sistem Informasi Pembangunan dan Keuangan Daerah
+# CoreNET
+CoreNET © is a software application development framework that enables teams of programmers with minimal qualifications, to develop transactional information systems and reports in collaboration, in a shorter time compared to conventional programming.
+CoreNET was developed utilizing object-oriented programming technology with the following characteristics.
+1. Desktop and web based using Microsoft .NET Framework version 3.5.
+2. The web-based framework is implemented using C #, ASP.NET, javascript and css languages.
+3. Using the concept of content management system, so that the menu list can be managed by an administration module. These characteristics help designers do prototyping to produce applications with complete menu structures, even though the features of each menu have not yet been implemented.
+4. Using the MVC architecture (NOT Microsoft MVC.NET), which conceptually separates the source code into a Model, Viewer and Controller component, so that the development of features can be done according to the specialization of the programmer's specialization (strongly supports team collaboration)
+5. Implement the Viewer component in the MVC architecture as UI Templates, so that programmers can implement UI designs without having to start from scratch, but can re-use UI templates that are available, including: Page Tabular and Form Entry, Page TreeGrid, Grouping / Drill-Down Data, Master Detail and Cross Reference. Currently UI templates are available using UI components from Ext.NET
+6. Implement the Modeller component in the MVC architecture using ORM (object relational mapper) using Ibatis.NET, so that the query implementation on the database can be managed more effectively.
+7. Provides Development Tools (Code Generator, Snippet), for implementing controller and modeller components in the MVC architecture. The controller is implemented as a library consisting of a number of classes in C # language, and queries are stored in XML format which is the embeded resource of the library.
