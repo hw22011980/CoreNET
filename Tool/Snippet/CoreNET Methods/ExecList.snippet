@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>ExecList</Title>
+			<Shortcut>ExecList</Shortcut>
+			<Description>Code snippet for ExecList</Description>
+			<Author>Diasoft Universal</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>name</ID>
+					<ToolTip>Class name</ToolTip>
+					<Default>MyClass</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp"><![CDATA[
+    string sql = @"
+      select count() as [ROWCOUNT] from {0} where ID='{1}'
+    ";
+    sql = string.Format(sql, XMLName, ID);
+    string[] fields = new string[] { "RowCount" };
+    List<IDataControl> list = BaseDataAdapter.GetListDC(this, sql, fields);
+    List<BaseDataControl> ListData = list.ConvertAll(new Converter<IDataControl, BaseDataControl>(delegate (IDataControl par) { return (BaseDataControl)par; }));
+    int n = (int)list[0].GetValue("RowCount");
+  ]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>GetProperties</Title>
+			<Shortcut>GetProperties</Shortcut>
+			<Description>Code snippet for an automatically implemented GetProperties</Description>
+			<Author>Diasoft Universal</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>type</ID>
+					<ToolTip>Property type</ToolTip>
+					<Default>string</Default>
+				</Literal>
+				<Literal>
+					<ID>property</ID>
+					<ToolTip>Property name</ToolTip>
+					<Default>MyProperty</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp">
+        <![CDATA[
+          ViewListProperties cViewListProperties = null;
+          public new IProperties GetProperties()
+          {
+            if(cViewListProperties == null)
+            {
+              cViewListProperties = (ViewListProperties)base.GetProperties();
+            }
+            return cViewListProperties;
+          }
+        ]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
