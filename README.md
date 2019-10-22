@@ -1,7 +1,7 @@
 # CoreNET
-CoreNET © is a software application development framework that enables teams of programmers with minimal qualifications, to develop transactional information systems and reports in collaboration, in a shorter time compared to conventional programming.
+CoreNET Â© is a software application development framework that enables teams of programmers with minimal qualifications, to develop transactional information systems in collaboration, in a shorter time compared to conventional programming.
 CoreNET was developed utilizing object-oriented programming technology with the following characteristics.
-1. Desktop and web based using Microsoft .NET Framework version 3.5.
+1. Desktop and web based using Microsoft .NET Framework
 2. The web-based framework is implemented using C #, ASP.NET, javascript and css languages.
 3. Using the concept of content management system, so that the menu list can be managed by an administration module. These characteristics help designers do prototyping to produce applications with complete menu structures, even though the features of each menu have not yet been implemented.
 4. Using the MVC architecture (NOT Microsoft MVC.NET), which conceptually separates the source code into a Model, Viewer and Controller component, so that the development of features can be done according to the specialization of the programmer's specialization (strongly supports team collaboration)
