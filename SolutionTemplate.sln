@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebCMS", "WebCMS\", "{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/Published"
+		Debug.AspNetCompiler.PhysicalPath = "WebCMS\"
+		Debug.AspNetCompiler.TargetPath = "Published\"
+		Debug.AspNetCompiler.Updateable = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Published"
+		Release.AspNetCompiler.PhysicalPath = "WebCMS\"
+		Release.AspNetCompiler.TargetPath = "Published\"
+		Release.AspNetCompiler.Updateable = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "8468"
+		SlnRelativePath = "WebCMS\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Debug|x86.Build.0 = Debug|Any CPU
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Release|x86.ActiveCfg = Debug|Any CPU
+		{9415AF8D-3CBA-4370-B9FB-A3B7154E0CC9}.Release|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F41C50A-641E-431B-9F18-A56D273BB9F0}
+	EndGlobalSection
+EndGlobal
