@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Login.aspx" hash="fffffff65735c6cd" filehash="a5be5cb0d00e17ae" flags="110000" assembly="App_Web_login.aspx.cdcab7d2" type="ASP.login_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Login.aspx" />
+        <filedep name="/WebCMS/Login.aspx.cs" />
+    </filedeps>
+</preserve>

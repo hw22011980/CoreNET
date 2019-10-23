@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Default.aspx" hash="fffffff65735c6cd" filehash="80e8902d929699cb" flags="110000" assembly="App_Web_default.aspx.cdcab7d2" type="ASP.default_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Default.aspx" />
+        <filedep name="/WebCMS/Default.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Blank.aspx" hash="fffffff65735c6cd" filehash="509e6792a8830aed" flags="110000" assembly="App_Web_blank.aspx.cdcab7d2" type="ASP.blank_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Blank.aspx" />
+        <filedep name="/WebCMS/Blank.aspx.cs" />
+    </filedeps>
+</preserve>

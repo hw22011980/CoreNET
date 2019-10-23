@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Page/PageTreePanelDetil.aspx" hash="fffffff65735c6cd" filehash="fda2c200fe49bc8b" flags="110000" assembly="App_Web_pagetreepaneldetil.aspx.a003eb5b" type="ASP.page_pagetreepaneldetil_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Ascx/SharedMethods.ascx" />
+        <filedep name="/WebCMS/Ascx/SharedMethods.ascx.cs" />
+        <filedep name="/WebCMS/Ascx/TreeShared.ascx" />
+        <filedep name="/WebCMS/Ascx/TreeShared.ascx.cs" />
+        <filedep name="/WebCMS/Page/PageTreePanelDetil.aspx" />
+        <filedep name="/WebCMS/Page/PageTreePanelDetil.aspx.cs" />
+    </filedeps>
+</preserve>
