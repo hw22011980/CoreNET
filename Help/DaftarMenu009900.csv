@@ -1,0 +1,112 @@
+Kdmenu;Nmmenu;Url;Kdlevel;Type
+01.;Table of Contents;http://localhost/SmartDocs/Html/00.99.00/01.htm?;1;H
+01.01.;Introduction;http://localhost/SmartDocs/Html/00.99.00/01.01.htm?;2;H
+01.01.01.;Architecture MVC;http://localhost/SmartDocs/Html/00.99.00/01.01.01.htm?;3;D
+01.01.02.;Object Oriented Analysis and Design;http://localhost/SmartDocs/Html/00.99.00/01.01.02.htm?;3;D
+01.01.03.;Algorithm and Object Oriented Programming;http://localhost/SmartDocs/Html/00.99.00/01.01.03.htm?;3;D
+01.01.04.;Web Based Application;http://localhost/SmartDocs/Html/00.99.00/01.01.04.htm?;3;D
+01.01.05.;Hybrid Desktop Application;http://localhost/SmartDocs/Html/00.99.00/01.01.05.htm?;3;D
+01.01.06.;Object Relational Mapping;http://localhost/SmartDocs/Html/00.99.00/01.01.06.htm?;3;D
+01.01.07.;.NET dan .NET Core Framework;http://localhost/SmartDocs/Html/00.99.00/01.01.07.htm?;3;D
+01.01.08.;Service Based Application;http://localhost/SmartDocs/Html/00.99.00/01.01.08.htm?;3;D
+01.01.09.;System Requirement;http://localhost/SmartDocs/Html/00.99.00/01.01.09.htm?;3;D
+01.01.10.;Development Tool;http://localhost/SmartDocs/Html/00.99.00/01.01.10.htm?;3;D
+01.01.11.;Content Management System;http://localhost/SmartDocs/Html/00.99.00/01.01.11.htm?;3;D
+01.01.12.;Configuration Based System;http://localhost/SmartDocs/Html/00.99.00/01.01.12.htm?;3;D
+01.01.13.;Document Management System;http://localhost/SmartDocs/Html/00.99.00/01.01.13.htm?;3;D
+01.01.14.;Document Generator;http://localhost/SmartDocs/Html/00.99.00/01.01.14.htm?;3;D
+01.01.15.;Page Templates;http://localhost/SmartDocs/Html/00.99.00/01.01.15.htm?;3;D
+01.01.16.;Master - Detail Page;http://localhost/SmartDocs/Html/00.99.00/01.01.16.htm?;3;D
+01.01.17.;Cross Reference;http://localhost/SmartDocs/Html/00.99.00/01.01.17.htm?;3;D
+01.01.18.;Application Platform;http://localhost/SmartDocs/Html/00.99.00/01.01.18.htm?;3;D
+01.01.19.;KPI and Mini Dashboard;http://localhost/SmartDocs/Html/00.99.00/01.01.19.htm?;3;D
+01.01.20.;User Authentication and Authorization;http://localhost/SmartDocs/Html/00.99.00/01.01.20.htm?;3;D
+01.01.21.;Log and Audit Trail;http://localhost/SmartDocs/Html/00.99.00/01.01.21.htm?;3;D
+01.02.;Artefact CoreNET;http://localhost/SmartDocs/Html/00.99.00/01.02.htm?;2;H
+01.02.01.;CoreNET Library;http://localhost/SmartDocs/Html/00.99.00/01.02.01.htm?;3;D
+01.02.02.;CoreNET External Library;http://localhost/SmartDocs/Html/00.99.00/01.02.02.htm?;3;D
+01.02.03.;CoreNET WebCMS;http://localhost/SmartDocs/Html/00.99.00/01.02.03.htm?;3;D
+01.02.04.;CoreNET Desktop Launcher;http://localhost/SmartDocs/Html/00.99.00/01.02.04.htm?;3;D
+01.02.05.;CoreNET Generator;http://localhost/SmartDocs/Html/00.99.00/01.02.05.htm?;3;D
+01.02.06.;CoreNET WebServer Updater;http://localhost/SmartDocs/Html/00.99.00/01.02.06.htm?;3;D
+01.02.07.;Configuration File;http://localhost/SmartDocs/Html/00.99.00/01.02.07.htm?;3;D
+01.02.08.;Snippet and Template Item;http://localhost/SmartDocs/Html/00.99.00/01.02.08.htm?;3;D
+01.02.09.;Runtime;http://localhost/SmartDocs/Html/00.99.00/01.02.09.htm?;3;D
+01.03.;List of Function;http://localhost/SmartDocs/Html/00.99.00/01.03.htm?;2;H
+01.03.01.;CoreNET.Common.Lib;http://localhost/SmartDocs/Html/00.99.00/01.03.01.htm?;3;D
+01.03.02.;CoreNET.Common.Data;http://localhost/SmartDocs/Html/00.99.00/01.03.02.htm?;3;D
+01.03.03.;CoreNET.Common.UI;http://localhost/SmartDocs/Html/00.99.00/01.03.03.htm?;3;D
+01.03.04.;CoreNET.Common.Ext;http://localhost/SmartDocs/Html/00.99.00/01.03.04.htm?;3;D
+01.03.05.;CoreNET.Common.Sys;http://localhost/SmartDocs/Html/00.99.00/01.03.05.htm?;3;D
+01.03.06.;CoreNET.Common.API;http://localhost/SmartDocs/Html/00.99.00/01.03.06.htm?;3;D
+01.03.07.;CoreNET.Common.PM;http://localhost/SmartDocs/Html/00.99.00/01.03.07.htm?;3;D
+01.03.08.;CoreNET.Common.ERP;http://localhost/SmartDocs/Html/00.99.00/01.03.08.htm?;3;D
+01.04.;Example;http://localhost/SmartDocs/Html/00.99.00/01.04.htm?;2;H
+01.04.01.;Initialization CMS;http://localhost/SmartDocs/Html/00.99.00/01.04.01.htm?;3;D
+01.04.01.01.;Download CoreNET Solution Template;http://localhost/SmartDocs/Html/00.99.00/01.04.01.01.htm?;4;H
+01.04.01.02.;Setting Configuration;http://localhost/SmartDocs/Html/00.99.00/01.04.01.02.htm?;4;H
+01.04.01.03.;Setting Connection;http://localhost/SmartDocs/Html/00.99.00/01.04.01.03.htm?;4;H
+01.04.01.04.;Start Without Debugging;http://localhost/SmartDocs/Html/00.99.00/01.04.01.04.htm?;4;H
+01.04.01.05.;Start Debugging;http://localhost/SmartDocs/Html/00.99.00/01.04.01.05.htm?;4;H
+01.04.01.06.;Attach Debugger;http://localhost/SmartDocs/Html/00.99.00/01.04.01.06.htm?;4;H
+01.04.01.07.;Create Menu.csv;http://localhost/SmartDocs/Html/00.99.00/01.04.01.07.htm?;4;H
+01.04.01.08.;Upload Menu;http://localhost/SmartDocs/Html/00.99.00/01.04.01.08.htm?;4;H
+01.04.02.;Membuat Page Tabular ReadOnly;http://localhost/SmartDocs/Html/00.99.00/01.04.02.htm?;3;D
+01.04.02.01.;Create IDataControlUI Class;http://localhost/SmartDocs/Html/00.99.00/01.04.02.01.htm?;4;H
+01.04.02.02.;Constructor;http://localhost/SmartDocs/Html/00.99.00/01.04.02.02.htm?;4;H
+01.04.02.03.;Method GetProperties;http://localhost/SmartDocs/Html/00.99.00/01.04.02.03.htm?;4;H
+01.04.02.04.;Method SetPageKey;http://localhost/SmartDocs/Html/00.99.00/01.04.02.04.htm?;4;H
+01.04.02.05.;Method SetFilterKey;http://localhost/SmartDocs/Html/00.99.00/01.04.02.05.htm?;4;H
+01.04.02.06.;Method GetFilters;http://localhost/SmartDocs/Html/00.99.00/01.04.02.06.htm?;4;H
+01.04.02.07.;Method SetFilterKey;http://localhost/SmartDocs/Html/00.99.00/01.04.02.07.htm?;4;H
+01.04.02.08.;Method GetColumn;http://localhost/SmartDocs/Html/00.99.00/01.04.02.08.htm?;4;H
+01.04.02.11.;Create Column;http://localhost/SmartDocs/Html/00.99.00/01.04.02.11.htm?;4;H
+01.04.02.12.;GetColumn dengan Kondisi;http://localhost/SmartDocs/Html/00.99.00/01.04.02.12.htm?;4;H
+01.04.02.13.;Kolom Rating;http://localhost/SmartDocs/Html/00.99.00/01.04.02.13.htm?;4;H
+01.04.02.14.;Kolom Icon;http://localhost/SmartDocs/Html/00.99.00/01.04.02.14.htm?;4;H
+01.04.02.15.;Kolom Command dan Cross Reference;http://localhost/SmartDocs/Html/00.99.00/01.04.02.15.htm?;4;H
+01.04.02.21.;Edit Kolom Nilai dan Pilihan Nilai;http://localhost/SmartDocs/Html/00.99.00/01.04.02.21.htm?;4;H
+01.04.02.22.;Method View;http://localhost/SmartDocs/Html/00.99.00/01.04.02.22.htm?;4;H
+01.04.03.;Membuat Page Tabular dengan Form Entry;http://localhost/SmartDocs/Html/00.99.00/01.04.03.htm?;3;D
+01.04.03.01.;Override Class;http://localhost/SmartDocs/Html/00.99.00/01.04.03.01.htm?;4;H
+01.04.03.02.;Method View;http://localhost/SmartDocs/Html/00.99.00/01.04.03.02.htm?;4;H
+01.04.03.03.;Method Load;http://localhost/SmartDocs/Html/00.99.00/01.04.03.03.htm?;4;H
+01.04.03.04.;Method Insert;http://localhost/SmartDocs/Html/00.99.00/01.04.03.04.htm?;4;H
+01.04.03.05.;Method Update;http://localhost/SmartDocs/Html/00.99.00/01.04.03.05.htm?;4;H
+01.04.03.06.;Method Delete;http://localhost/SmartDocs/Html/00.99.00/01.04.03.06.htm?;4;H
+01.04.03.11.;View Form Entry;http://localhost/SmartDocs/Html/00.99.00/01.04.03.11.htm?;4;H
+01.04.03.12.;Tambah dengan Form Entry;http://localhost/SmartDocs/Html/00.99.00/01.04.03.12.htm?;4;H
+01.04.03.13.;Edit dengan Form Entry;http://localhost/SmartDocs/Html/00.99.00/01.04.03.13.htm?;4;H
+01.04.03.14.;ParameterRow;http://localhost/SmartDocs/Html/00.99.00/01.04.03.14.htm?;4;H
+01.04.03.15.;ParameterRow TextField dan Memo;http://localhost/SmartDocs/Html/00.99.00/01.04.03.15.htm?;4;H
+01.04.03.16.;ParameterRow Date, Boolean dan Numeric Field;http://localhost/SmartDocs/Html/00.99.00/01.04.03.16.htm?;4;H
+01.04.03.17.;ParameterRow Lookup;http://localhost/SmartDocs/Html/00.99.00/01.04.03.17.htm?;4;H
+01.04.03.18.;ParameterRow Select dan RadioButton;http://localhost/SmartDocs/Html/00.99.00/01.04.03.18.htm?;4;H
+01.04.03.19.;ParameterRow Type;http://localhost/SmartDocs/Html/00.99.00/01.04.03.19.htm?;4;H
+01.04.03.21.;ParameterRow Editor HTML;http://localhost/SmartDocs/Html/00.99.00/01.04.03.21.htm?;4;H
+01.04.03.22.;ParameterRow Upload File;http://localhost/SmartDocs/Html/00.99.00/01.04.03.22.htm?;4;H
+01.04.03.23.;ParameterRow Forum;http://localhost/SmartDocs/Html/00.99.00/01.04.03.23.htm?;4;H
+01.04.03.31.;Grand Total di Bottom Bar;http://localhost/SmartDocs/Html/00.99.00/01.04.03.31.htm?;4;H
+01.04.03.41.;Save into CSV File;http://localhost/SmartDocs/Html/00.99.00/01.04.03.41.htm?;4;H
+01.04.03.42.;Save into Word File;http://localhost/SmartDocs/Html/00.99.00/01.04.03.42.htm?;4;H
+01.04.04.;Mode Entry Data;http://localhost/SmartDocs/Html/00.99.00/01.04.04.htm?;3;D
+01.04.04.01.;Create IDataControlLookup Class;http://localhost/SmartDocs/Html/00.99.00/01.04.04.01.htm?;4;H
+01.04.04.11.;Tambah dengan GridLookup;http://localhost/SmartDocs/Html/00.99.00/01.04.04.11.htm?;4;H
+01.04.04.12.;Tambah dengan TreeLookup;http://localhost/SmartDocs/Html/00.99.00/01.04.04.12.htm?;4;H
+01.04.04.21.;Tambah dengan Lookup Entry;http://localhost/SmartDocs/Html/00.99.00/01.04.04.21.htm?;4;H
+01.04.04.22.;Tambah dengan Add From Form Entry;http://localhost/SmartDocs/Html/00.99.00/01.04.04.22.htm?;4;H
+01.04.04.;Mengimplementasi Cetak;http://localhost/SmartDocs/Html/00.99.00/01.04.04.htm?;3;D
+01.04.04.01.;Report Library;http://localhost/SmartDocs/Html/00.99.00/01.04.04.01.htm?;4;H
+01.04.04.02.;Dialog Report;http://localhost/SmartDocs/Html/00.99.00/01.04.04.02.htm?;4;H
+01.04.03.;Membuat Page TreeGrid;http://localhost/SmartDocs/Html/00.99.00/01.04.03.htm?;3;D
+01.04.03.01.;Create IDataControlTreeGrid3 Class;http://localhost/SmartDocs/Html/00.99.00/01.04.03.01.htm?;4;H
+01.04.03.02.;Data Terstruktur;http://localhost/SmartDocs/Html/00.99.00/01.04.03.02.htm?;4;H
+01.04.04.;Membuat Page MasterDetil;http://localhost/SmartDocs/Html/00.99.00/01.04.04.htm?;3;D
+01.04.04.01.;Create IPageMaster Class;http://localhost/SmartDocs/Html/00.99.00/01.04.04.01.htm?;4;H
+01.04.04.02.;Definisi URL;http://localhost/SmartDocs/Html/00.99.00/01.04.04.02.htm?;4;H
+01.05.;Troubleshooting;http://localhost/SmartDocs/Html/00.99.00/01.05.htm?;2;H
+01.05.01.;Troubleshooting - Error;http://localhost/SmartDocs/Html/00.99.00/01.05.01.htm?;3;D
+01.05.02.;FAQ;http://localhost/SmartDocs/Html/00.99.00/01.05.02.htm?;3;D
+01.06.;About;http://localhost/SmartDocs/Html/00.99.00/01.06.htm?;2;H
+01.06.01.;About Us;http://localhost/SmartDocs/Html/00.99.00/01.06.01.htm?;3;D
+01.06.02.;Contact Us;http://localhost/SmartDocs/Html/00.99.00/01.06.02.htm?;3;D
