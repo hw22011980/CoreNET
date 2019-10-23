@@ -2,7 +2,6 @@
 using CoreNET.Common.BO;
 using Ext.Net;
 using System;
-using System.Web;
 using System.Configuration;
 using System.Reflection;
 
@@ -95,8 +94,6 @@ public partial class Login : System.Web.UI.Page
   public void ProcessLogin() { }
   protected void btnLogin_Click(object sender, DirectEventArgs e)
   {
-    CoreNET.Common.Base.AssemblyUtils.WriteBeginLog();
-
     bool ok = false;
     string key = utxt_Code.Value;
     try
@@ -151,20 +148,16 @@ public partial class Login : System.Web.UI.Page
       {
         case "2":
           url = "Index.aspx" +
-            string.Format("?app={0}&key={1}&sub={2}&kdapp={3}&frame={4}", MasterAppConstants.MASTERAPPID,
-            key, sub, GlobalAsp.GetRequestKdapp(), GlobalAsp.GetRequestFrame());//Modul Admin
+            string.Format("?app={0}&key={1}&sub={2}&kdapp={3}", MasterAppConstants.DEFAULT_MASTERAPP_ID,
+            key, sub, GlobalAsp.GetRequestKdapp());
           break;
         default:
           url = GlobalAsp.GetMenuURL() +
-            string.Format("?app={0}&key={1}&sub={2}&kdapp={3}&frame={4}", app, key,
-            sub, GlobalAsp.GetRequestKdapp(), GlobalAsp.GetRequestFrame());//Modul Admin
+            string.Format("?app={0}&key={1}&sub={2}&kdapp={3}", app, key,
+            sub, GlobalAsp.GetRequestKdapp());
           break;
       }
-      CoreNET.Common.Base.AssemblyUtils.WriteEndLog();
-
-      //Window1.Hide();
       Response.Redirect(url);
-
     }
   }
 
