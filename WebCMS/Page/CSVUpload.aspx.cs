@@ -1,7 +1,7 @@
 ﻿using CoreNET.Common.Base;
 using CoreNET.Common.BO;
 using Ext.Net;
-using OfficeOpenXml;
+//using OfficeOpenXml;//Bikin Error Precompiled
 using System;
 using System.Collections;
 using System.Data;
@@ -226,33 +226,33 @@ public partial class CSVUpload : System.Web.UI.Page
     }
   }
 
-  public void UploadXls()
-  {
-    //using OfficeOpenXml;
-    using (ExcelPackage xlPackage = new ExcelPackage(new FileInfo(@"C:\YourDirectory\sample.xlsx")))
-    {
-      //var myWorksheet = xlPackage.Workbook.Worksheets.First(); //select sheet here
-      IEnumerator enumerator = xlPackage.Workbook.Worksheets.GetEnumerator();
-      ExcelWorksheet myWorksheet = null;
+  //public void UploadXls()
+  //{
+  //  //using OfficeOpenXml;
+  //  using (ExcelPackage xlPackage = new ExcelPackage(new FileInfo(@"C:\YourDirectory\sample.xlsx")))
+  //  {
+  //    //var myWorksheet = xlPackage.Workbook.Worksheets.First(); //select sheet here
+  //    IEnumerator enumerator = xlPackage.Workbook.Worksheets.GetEnumerator();
+  //    ExcelWorksheet myWorksheet = null;
 
-      while (enumerator.MoveNext())
-      {
-        myWorksheet = (ExcelWorksheet)enumerator.Current;
-        // Perform logic on the item
-      }
+  //    while (enumerator.MoveNext())
+  //    {
+  //      myWorksheet = (ExcelWorksheet)enumerator.Current;
+  //      // Perform logic on the item
+  //    }
 
-      int totalRows = myWorksheet.Dimension.End.Row;
-      int totalColumns = myWorksheet.Dimension.End.Column;
+  //    int totalRows = myWorksheet.Dimension.End.Row;
+  //    int totalColumns = myWorksheet.Dimension.End.Column;
 
-      StringBuilder sb = new StringBuilder(); //this is your data
-      for (int rowNum = 1; rowNum <= totalRows; rowNum++) //select starting row here
-      {
-        object row = myWorksheet.Cells[rowNum, 1, rowNum, totalColumns].Value;
-        //var row = myWorksheet.Cells[rowNum, 1, rowNum, totalColumns].Select(c => c.Value == null ? string.Empty : c.Value.ToString());
-        //sb.AppendLine(string.Join(",", row));
-      }
-    }
-  }
+  //    StringBuilder sb = new StringBuilder(); //this is your data
+  //    for (int rowNum = 1; rowNum <= totalRows; rowNum++) //select starting row here
+  //    {
+  //      object row = myWorksheet.Cells[rowNum, 1, rowNum, totalColumns].Value;
+  //      //var row = myWorksheet.Cells[rowNum, 1, rowNum, totalColumns].Select(c => c.Value == null ? string.Empty : c.Value.ToString());
+  //      //sb.AppendLine(string.Join(",", row));
+  //    }
+  //  }
+  //}
   #region DirectMethods
   #endregion
   [DirectMethod(Timeout = 3600000, Namespace = "CoreNET")]

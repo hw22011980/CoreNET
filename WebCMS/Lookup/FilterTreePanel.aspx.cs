@@ -261,6 +261,7 @@ public partial class FilterTreePanel : System.Web.UI.Page
         }
 
         ///*
+        //alert('tes'); !!#{TreeGrid1}.tes();
         btnSelect.Listeners.Click.Handler = @"
           if(!!#{TreeGrid1}.getSelectedNodes()){
             var sel = #{TreeGrid1}.getSelectedNodes().attributes;" + strlvl + @"
@@ -276,7 +277,26 @@ public partial class FilterTreePanel : System.Web.UI.Page
           "}"
           ;
         //*/
+        TreeGrid1.Listeners.BeforeClick.Handler = "node.select();";
         TreeGrid1.Listeners.Click.Handler = btnSelect.Listeners.Click.Handler;
+        //TreeGrid1.Listeners.Click.Handler = @"
+        //    var sel = node.attributes;
+        //      alert(node.text);
+        //      alert(Ext.encode(sel));"
+        //    + strlvl + @"
+        //    var path = node.getPath('text','/');
+        //    " + strset + @"
+        //     alert(Ext.encode(sel)+path);
+        //     CoreNET.btnSelect(Ext.encode(sel),path);
+        //     try{" +
+        //  ((target == ExtGridPanelFilter.ENTRY) ?//Mungkinkah dipindahin ke btnSelect(sel,path), karena klo JS asinkronus
+        //      "" :
+        //      ((target == ExtGridPanelFilter.GRID) ?
+        //        "  parent.refreshData();" :
+        //        "  parent.refreshTree();")) +
+        //   @"}catch(exception){}
+        //     parent." + winid + ".hide();" + msgerror
+        //  ;
         //TopBar1.Add(btnSelect);
 
         string comp = "";
