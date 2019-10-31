@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/DetectScreen.aspx" hash="fffffff65735c6cd" filehash="fffff773117d20ae" flags="110000" assembly="App_Web_detectscreen.aspx.cdcab7d2" type="ASP.detectscreen_aspx">
+<preserve resultType="3" virtualPath="/WebCMS/DetectScreen.aspx" hash="fffffff004e2faca" filehash="2f816cf975dc" flags="110000" assembly="App_Web_detectscreen.aspx.cdcab7d2" type="ASP.detectscreen_aspx">
     <filedeps>
         <filedep name="/WebCMS/DetectScreen.aspx" />
     </filedeps>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Ascx/SharedMethods.ascx" hash="fffffff65735c6cd" filehash="ef40eb157fb08099" flags="110000" assembly="App_Web_sharedmethods.ascx.c95a9aa" type="ASP.ascx_sharedmethods_ascx">
+<preserve resultType="3" virtualPath="/WebCMS/Ascx/SharedMethods.ascx" hash="fffffff004e2faca" filehash="6e362990f870a9c2" flags="110000" assembly="App_Web_sharedmethods.ascx.c95a9aa" type="ASP.ascx_sharedmethods_ascx">
     <filedeps>
         <filedep name="/WebCMS/Ascx/SharedMethods.ascx" />
         <filedep name="/WebCMS/Ascx/SharedMethods.ascx.cs" />

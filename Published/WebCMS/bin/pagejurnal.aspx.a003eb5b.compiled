@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Page/PageJurnal.aspx" hash="fffffff65735c6cd" filehash="7a87fb587677c3bf" flags="110000" assembly="App_Web_pagejurnal.aspx.a003eb5b" type="ASP.page_pagejurnal_aspx">
+<preserve resultType="3" virtualPath="/WebCMS/Page/PageJurnal.aspx" hash="fffffff004e2faca" filehash="cc70a37ef08166f1" flags="110000" assembly="App_Web_pagejurnal.aspx.a003eb5b" type="ASP.page_pagejurnal_aspx">
     <filedeps>
         <filedep name="/WebCMS/Ascx/SharedMethods.ascx" />
         <filedep name="/WebCMS/Ascx/SharedMethods.ascx.cs" />

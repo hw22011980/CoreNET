@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Ascx/TabularShared.ascx" hash="fffffff65735c6cd" filehash="1793486b5dabd971" flags="110000" assembly="App_Web_tabularshared.ascx.c95a9aa" type="ASP.ascx_tabularshared_ascx">
+<preserve resultType="3" virtualPath="/WebCMS/Ascx/TabularShared.ascx" hash="fffffff004e2faca" filehash="3ca0b671abd72157" flags="110000" assembly="App_Web_tabularshared.ascx.c95a9aa" type="ASP.ascx_tabularshared_ascx">
     <filedeps>
         <filedep name="/WebCMS/Ascx/TabularShared.ascx" />
         <filedep name="/WebCMS/Ascx/TabularShared.ascx.cs" />

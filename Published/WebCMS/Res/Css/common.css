@@ -32,11 +32,3 @@ a:hover { text-decoration : underline; }
 {
   background-image: url(../../Res/Img/collapse-all.gif) !important;
 }
-
-.number-selected {
-  background: transparent url(star_n.png) repeat-x left center;
-}
-
-.number-unselected {
-  background: transparent url(star_fade_n.png) repeat-x left center;
-}
