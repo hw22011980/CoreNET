@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/App_Portal/PortalSMA.aspx" hash="fffffff004e2faca" filehash="38e867d0eb5ba234" flags="110000" assembly="App_Web_portalsma.aspx.db71bc00" type="ASP.app_portal_portalsma_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/App_Portal/PortalSMA.aspx" />
+        <filedep name="/WebCMS/App_Portal/PortalSMA.aspx.cs" />
+    </filedeps>
+</preserve>

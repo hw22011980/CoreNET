@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/App_Portal/PageMenu.aspx" hash="fffffff004e2faca" filehash="d23e3d478088221f" flags="110000" assembly="App_Web_pagemenu.aspx.db71bc00" type="ASP.app_portal_pagemenu_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/App_Portal/PageMenu.aspx" />
+        <filedep name="/WebCMS/App_Portal/PageMenu.aspx.cs" />
+    </filedeps>
+</preserve>

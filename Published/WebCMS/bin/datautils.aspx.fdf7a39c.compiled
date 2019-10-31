@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Admin/DataUtils.aspx" hash="fffffff004e2faca" filehash="a44c1e609e320af1" flags="110000" assembly="App_Web_datautils.aspx.fdf7a39c" type="ASP.admin_datautils_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Admin/DataUtils.aspx" />
+        <filedep name="/WebCMS/Admin/DataUtils.aspx.cs" />
+    </filedeps>
+</preserve>
