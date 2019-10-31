@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/App_Portal/RegisterLogin.aspx" hash="fffffff004e2faca" filehash="bbb12b69d5758518" flags="110000" assembly="App_Web_registerlogin.aspx.db71bc00" type="ASP.app_portal_registerlogin_aspx">
+<preserve resultType="3" virtualPath="/WebCMS/App_Portal/RegisterLogin.aspx" hash="fffffff004e2faca" filehash="446b77fbb77c3761" flags="110000" assembly="App_Web_registerlogin.aspx.db71bc00" type="ASP.app_portal_registerlogin_aspx">
     <filedeps>
         <filedep name="/WebCMS/App_Portal/RegisterLogin.aspx" />
         <filedep name="/WebCMS/App_Portal/RegisterLogin.aspx.cs" />
