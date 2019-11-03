@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Page/FileBrowser.aspx" hash="fffffff004e2faca" filehash="fb72b1b9600b3176" flags="110000" assembly="App_Web_filebrowser.aspx.a003eb5b" type="ASP.page_filebrowser_aspx">
+<preserve resultType="3" virtualPath="/WebCMS/Page/FileBrowser.aspx" hash="fffffff004e2faca" filehash="f8938b137cf0169b" flags="110000" assembly="App_Web_filebrowser.aspx.a003eb5b" type="ASP.page_filebrowser_aspx">
     <filedeps>
         <filedep name="/WebCMS/Page/FileBrowser.aspx" />
         <filedep name="/WebCMS/Page/FileBrowser.aspx.cs" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Dialog/GridBalance1.aspx" hash="fffffff004e2faca" filehash="57b239b947f647d3" flags="110000" assembly="App_Web_gridbalance1.aspx.e733171c" type="ASP.dialog_gridbalance1_aspx">
+<preserve resultType="3" virtualPath="/WebCMS/Dialog/GridBalance1.aspx" hash="fffffff004e2faca" filehash="76af628be2a59241" flags="110000" assembly="App_Web_gridbalance1.aspx.e733171c" type="ASP.dialog_gridbalance1_aspx">
     <filedeps>
         <filedep name="/WebCMS/Dialog/GridBalance1.aspx" />
         <filedep name="/WebCMS/Dialog/GridBalance1.aspx.cs" />
