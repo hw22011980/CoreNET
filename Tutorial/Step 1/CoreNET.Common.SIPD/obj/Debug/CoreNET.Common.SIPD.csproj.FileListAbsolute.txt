@@ -1,0 +1,42 @@
+D:\[Project]\[CoreNET]\CoreNET2018\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.SIPD.dll
+D:\[Project]\[CoreNET]\CoreNET2018\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.SIPD.pdb
+D:\[Project]\[CoreNET]\CoreNET2018\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.csprojAssemblyReference.cache
+D:\[Project]\[CoreNET]\CoreNET2018\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.csproj.CoreCompileInputs.cache
+D:\[Project]\[CoreNET]\CoreNET2018\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.dll
+D:\[Project]\[CoreNET]\CoreNET2018\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.SIPD.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.SIPD.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Data.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Ext.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Lib.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Sys.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.UI.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\Ext.Net.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\Ext.Net.Utilities.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\IBatisNet.DataAccess.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\IBatisNet.DataMapper.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\IBatisNet.Common.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\Newtonsoft.Json.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Thread.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\DocumentFormat.OpenXml.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\HtmlToOpenXml.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\Castle.DynamicProxy.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Sys.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Thread.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Resources\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.SIPD.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.SIPD.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\IBatisNet.DataAccess.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\IBatisNet.DataMapper.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\IBatisNet.Common.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\Newtonsoft.Json.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Thread.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\DocumentFormat.OpenXml.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\HtmlToOpenXml.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\Castle.DynamicProxy.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Sys.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\bin\Debug\CoreNET.Common.Thread.pdb
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.csprojResolveAssemblyReference.cache
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.dll
+D:\#Personal\GoogleDrive\corenet.usadi@gmail.com\Project\GitHub\hw22011980\CoreNET\Tutorial\Hour 1\CoreNET.Common.SIPD\obj\Debug\CoreNET.Common.SIPD.pdb
