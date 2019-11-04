@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Admin/Tester.aspx" hash="fffffff53b7274f5" filehash="8a75afc1c89a9205" flags="110000" assembly="App_Web_tester.aspx.fdf7a39c" type="ASP.admin_tester_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/Admin/Tester.aspx" />
-        <filedep name="/WebCMS/Admin/Tester.aspx.cs" />
-    </filedeps>
-</preserve>

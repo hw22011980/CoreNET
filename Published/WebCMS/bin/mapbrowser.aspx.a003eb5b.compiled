@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Page/MapBrowser.aspx" hash="fffffff004e2faca" filehash="b86d65e9ca2174a4" flags="110000" assembly="App_Web_mapbrowser.aspx.a003eb5b" type="ASP.page_mapbrowser_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/Page/MapBrowser.aspx" />
-        <filedep name="/WebCMS/Page/MapBrowser.aspx.cs" />
-    </filedeps>
-</preserve>

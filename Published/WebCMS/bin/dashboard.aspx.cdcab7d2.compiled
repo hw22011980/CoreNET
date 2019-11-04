@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Dashboard.aspx" hash="fffffff65735c6cd" filehash="edaaaee86110015c" flags="110000" assembly="App_Web_dashboard.aspx.cdcab7d2" type="ASP.dashboard_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/Dashboard.aspx" />
-        <filedep name="/WebCMS/Dashboard.aspx.cs" />
-    </filedeps>
-</preserve>

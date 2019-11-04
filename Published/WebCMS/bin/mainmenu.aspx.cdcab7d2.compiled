@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/MainMenu.aspx" hash="fffffff004e2faca" filehash="8ca03c187a6ce39b" flags="110000" assembly="App_Web_mainmenu.aspx.cdcab7d2" type="ASP.mainmenu_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/MainMenu.aspx" />
-        <filedep name="/WebCMS/MainMenu.aspx.cs" />
-    </filedeps>
-</preserve>

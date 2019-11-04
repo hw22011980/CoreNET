@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/System/PrintPdf.aspx" hash="fffffff004e2faca" filehash="ab18f4b7b154cf58" flags="110000" assembly="App_Web_printpdf.aspx.79613827" type="ASP.system_printpdf_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/System/PrintPdf.aspx" />
-        <filedep name="/WebCMS/System/PrintPdf.aspx.cs" />
-    </filedeps>
-</preserve>

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Admin/PageMon.aspx" hash="fffffff53b7274f5" filehash="686220e473defa45" flags="110000" assembly="App_Web_pagemon.aspx.fdf7a39c" type="ASP.admin_pagemon_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/Admin/PageMon.aspx" />
-        <filedep name="/WebCMS/Admin/PageMon.aspx.cs" />
-    </filedeps>
-</preserve>

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Portal.aspx" hash="fffffff004e2faca" filehash="93d5e4d8c4ecbf90" flags="110000" assembly="App_Web_portal.aspx.cdcab7d2" type="ASP.portal_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/Portal.aspx" />
-        <filedep name="/WebCMS/Portal.aspx.cs" />
-    </filedeps>
-</preserve>

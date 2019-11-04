@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/App_Portal/PageHomeSMAEn.aspx" hash="fffffff65735c6cd" filehash="41e26495f1c88694" flags="110000" assembly="App_Web_pagehomesmaen.aspx.db71bc00" type="ASP.app_portal_pagehomesmaen_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/App_Portal/PageHomeSMAEn.aspx" />
-        <filedep name="/WebCMS/App_Portal/PageHomeSMAEn.aspx.cs" />
-    </filedeps>
-</preserve>

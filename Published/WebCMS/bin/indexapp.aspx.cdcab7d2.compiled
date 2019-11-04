@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/IndexApp.aspx" hash="fffffff53b7274f5" filehash="78c0d3972215f345" flags="110000" assembly="App_Web_indexapp.aspx.cdcab7d2" type="ASP.indexapp_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/IndexApp.aspx" />
-        <filedep name="/WebCMS/IndexApp.aspx.cs" />
-    </filedeps>
-</preserve>

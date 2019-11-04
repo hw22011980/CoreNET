@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/IndexMenu.aspx" hash="fffffff53b7274f5" filehash="2569c21672c8bfec" flags="110000" assembly="App_Web_indexmenu.aspx.cdcab7d2" type="ASP.indexmenu_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/IndexMenu.aspx" />
-        <filedep name="/WebCMS/IndexMenu.aspx.cs" />
-    </filedeps>
-</preserve>

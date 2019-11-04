@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/MenuMetro.aspx" hash="fffffff65735c6cd" filehash="2b716808a479e9f9" flags="110000" assembly="App_Web_menumetro.aspx.cdcab7d2" type="ASP.menumetro_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/MenuMetro.aspx" />
-        <filedep name="/WebCMS/MenuMetro.aspx.cs" />
-    </filedeps>
-</preserve>

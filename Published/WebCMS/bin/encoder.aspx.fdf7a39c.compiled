@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WebCMS/Admin/Encoder.aspx" hash="fffffff53b7274f5" filehash="c5621a10ed491c0a" flags="110000" assembly="App_Web_encoder.aspx.fdf7a39c" type="ASP.admin_encoder_aspx">
-    <filedeps>
-        <filedep name="/WebCMS/Admin/Encoder.aspx" />
-        <filedep name="/WebCMS/Admin/Encoder.aspx.cs" />
-    </filedeps>
-</preserve>
