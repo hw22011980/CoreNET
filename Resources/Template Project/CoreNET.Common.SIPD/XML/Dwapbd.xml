@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sqlMap namespace="Dwapbd" xmlns="http://ibatis.apache.org/mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <alias>
+      <typeAlias alias="Dwapbd" type="CoreNET.Common.BO.DwapbdControl, CoreNET.Common.SIPD " />
+    </alias>
+    <resultMaps>
+      <resultMap id="return-result" class="Dwapbd">
+        <result property="Tahun" column="TAHUN"/>
+        <result property="Satker" column="SATKER"/>
+        <result property="Kdpemda" column="KDPEMDA"/>
+        <result property="Kddata" column="KDDATA"/>
+        <result property="Kdbab" column="KDBAB"/>
+        <result property="Nmbab" column="NMBAB"/>
+        <result property="Kdkel" column="KDKEL"/>
+        <result property="Nmkel" column="NMKEL"/>
+        <result property="Kdjns" column="KDJNS"/>
+        <result property="Nmjns" column="NMJNS"/>
+        <result property="Kdobj" column="KDOBJ"/>
+        <result property="Nmobj" column="NMOBJ"/>
+        <result property="Kdrnc" column="KDRNC"/>
+        <result property="Nmrnc" column="NMRNC"/>
+        <result property="Kdor1" column="KDOR1"/>
+        <result property="Nmor1" column="NMOR1"/>
+        <result property="Kdor2" column="KDOR2"/>
+        <result property="Nmor2" column="NMOR2"/>
+        <result property="Kdor3" column="KDOR3"/>
+        <result property="Nmor3" column="NMOR3"/>
+        <result property="Kdor4" column="KDOR4"/>
+        <result property="Nmor4" column="NMOR4"/>
+        <result property="Kdor5" column="KDOR5"/>
+        <result property="Nmor5" column="NMOR5"/>
+        <result property="Kdpr" column="KDPR"/>
+        <result property="Nmpr" column="NMPR"/>
+        <result property="Kdkeg" column="KDKEG"/>
+        <result property="Nmkeg" column="NMKEG"/>
+        <result property="Kdfung1" column="KDFUNG1"/>
+        <result property="Nmfung1" column="NMFUNG1"/>
+        <result property="Kdfung2" column="KDFUNG2"/>
+        <result property="Nmfung2" column="NMFUNG2"/>
+        <result property="Kdfung3" column="KDFUNG3"/>
+        <result property="Nmfung3" column="NMFUNG3"/>
+        <result property="Nilai" column="NILAI"/>
+        <result property="Id" column="ID"/>
+      </resultMap>
+    </resultMaps>
+    <statements>
+      <insert id="InsertDwapbd" parameterMap="insert-param">
+        <generate table="DWAPBD"/>
+      </insert>
+      <update id="UpdateByDwapbd" parameterMap="update-param">
+        <generate table="DWAPBD" by="ID"/>
+      </update>
+      <update id="UpdateByValidRevDwapbd" parameterClass="Dwapbd">
+        update DWAPBD set REV_BY=#Rev_by#,REV_DATE=#Rev_date#
+        where 1=1
+      </update>
+      <update id="UpdateByUnValidRevDwapbd" parameterClass="Dwapbd">
+        update DWAPBD set REV_BY='',REV_DATE=null
+        where 1=1
+      </update>
+      <delete id="DeleteByDwapbd" parameterMap="delete-param">
+        <generate table="DWAPBD" by="ID"/>
+      </delete>
+      <select id="BaseQueryDwapbd" parameterClass="Dwapbd" resultMap="return-result">
+        select rtrim(D.ID) as ID,rtrim(D.TAHUN) as TAHUN,rtrim(D.SATKER) as SATKER,rtrim(D.KDPEMDA) as KDPEMDA,rtrim(D.KDDATA) as KDDATA,rtrim(D.KDBAB) as KDBAB,rtrim(D.NMBAB) as NMBAB,rtrim(D.KDKEL) as KDKEL,rtrim(D.NMKEL) as NMKEL,rtrim(D.KDJNS) as KDJNS,rtrim(D.NMJNS) as NMJNS,rtrim(D.KDOBJ) as KDOBJ,rtrim(D.NMOBJ) as NMOBJ,rtrim(D.KDRNC) as KDRNC,rtrim(D.NMRNC) as NMRNC,rtrim(D.KDOR1) as KDOR1,rtrim(D.NMOR1) as NMOR1,rtrim(D.KDOR2) as KDOR2,rtrim(D.NMOR2) as NMOR2,rtrim(D.KDOR3) as KDOR3,rtrim(D.NMOR3) as NMOR3,rtrim(D.KDOR4) as KDOR4,rtrim(D.NMOR4) as NMOR4,rtrim(D.KDOR5) as KDOR5,rtrim(D.NMOR5) as NMOR5,rtrim(D.KDPR) as KDPR,rtrim(D.NMPR) as NMPR,rtrim(D.KDKEG) as KDKEG,rtrim(D.NMKEG) as NMKEG,rtrim(D.KDFUNG1) as KDFUNG1,rtrim(D.NMFUNG1) as NMFUNG1,rtrim(D.KDFUNG2) as KDFUNG2,rtrim(D.NMFUNG2) as NMFUNG2,rtrim(D.KDFUNG3) as KDFUNG3,rtrim(D.NMFUNG3) as NMFUNG3,D.NILAI
+        from DWAPBD D
+      </select>
+      <select id="QueryByAllDwapbd" extends="BaseQueryDwapbd" parameterClass="Dwapbd" resultMap="return-result">
+        where 1=1
+        order by D.ID
+      </select>
+      <select id="QueryByLookupDwapbd" extends="BaseQueryDwapbd" parameterClass="Dwapbd" resultMap="return-result">
+        where 1=1
+        order by D.ID
+      </select>
+      <select id="LoadByPKDwapbd" extends="BaseQueryDwapbd" parameterClass="Dwapbd" resultMap="return-result">
+        where D.ID = #Id#
+      </select>
+      <select id="LoadByIDDwapbd" extends="BaseQueryDwapbd" parameterClass="Dwapbd" resultMap="return-result">
+        where D.ID = #Id#
+      </select>
+    </statements>
+    <parameterMaps>
+      <parameterMap id="insert-param" class="Dwapbd">
+        <parameter property="Tahun" column="TAHUN"/>
+        <parameter property="Satker" column="SATKER"/>
+        <parameter property="Kdpemda" column="KDPEMDA"/>
+        <parameter property="Kddata" column="KDDATA"/>
+        <parameter property="Kdbab" column="KDBAB"/>
+        <parameter property="Nmbab" column="NMBAB"/>
+        <parameter property="Kdkel" column="KDKEL"/>
+        <parameter property="Nmkel" column="NMKEL"/>
+        <parameter property="Kdjns" column="KDJNS"/>
+        <parameter property="Nmjns" column="NMJNS"/>
+        <parameter property="Kdobj" column="KDOBJ"/>
+        <parameter property="Nmobj" column="NMOBJ"/>
+        <parameter property="Kdrnc" column="KDRNC"/>
+        <parameter property="Nmrnc" column="NMRNC"/>
+        <parameter property="Kdor1" column="KDOR1"/>
+        <parameter property="Nmor1" column="NMOR1"/>
+        <parameter property="Kdor2" column="KDOR2"/>
+        <parameter property="Nmor2" column="NMOR2"/>
+        <parameter property="Kdor3" column="KDOR3"/>
+        <parameter property="Nmor3" column="NMOR3"/>
+        <parameter property="Kdor4" column="KDOR4"/>
+        <parameter property="Nmor4" column="NMOR4"/>
+        <parameter property="Kdor5" column="KDOR5"/>
+        <parameter property="Nmor5" column="NMOR5"/>
+        <parameter property="Kdpr" column="KDPR"/>
+        <parameter property="Nmpr" column="NMPR"/>
+        <parameter property="Kdkeg" column="KDKEG"/>
+        <parameter property="Nmkeg" column="NMKEG"/>
+        <parameter property="Kdfung1" column="KDFUNG1"/>
+        <parameter property="Nmfung1" column="NMFUNG1"/>
+        <parameter property="Kdfung2" column="KDFUNG2"/>
+        <parameter property="Nmfung2" column="NMFUNG2"/>
+        <parameter property="Kdfung3" column="KDFUNG3"/>
+        <parameter property="Nmfung3" column="NMFUNG3"/>
+        <parameter property="Nilai" column="NILAI"/>
+        <parameter property="Id" column="ID"/>
+      </parameterMap>
+      <parameterMap id="update-param" extends="insert-param" class="Dwapbd">
+      </parameterMap>
+      <parameterMap id="delete-param" class="Dwapbd">
+        <parameter property="Id" column="ID"/>
+      </parameterMap>
+    </parameterMaps>
+</sqlMap>
+

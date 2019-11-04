@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>BaseDataControlUIEntry</Title>
+			<Shortcut>BaseDataControlUIEntry</Shortcut>
+			<Description>Code snippet for an automatically implemented property</Description>
+			<Author>Microsoft Corporation</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>classname</ID>
+					<ToolTip>Class name</ToolTip>
+					<Default>MyClass</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp">
+        <![CDATA[
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using CoreNET.Common.Base;
+using CoreNET.Common.UI;
+using CoreNET.Common.BO;
+using System.IO;
+using Ext.Net;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace CoreNET.Common.BO
+{
+	#region $classname$
+	[Serializable]
+	public class $classname$Control : BaseDataControlUIEntry, IDataControlTreeGrid3, ICsv, ILoadCsv, IPrintable, IEksporable
+	{
+	  #region Properties
+	  #endregion Properties
+	  #region Methods
+	  public $classname$Control()
+	  {
+	    XMLName = "$classname$";
+	  }
+	  #endregion Methods
+	}
+	#endregion $classname$
+}
+
+	      ]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
