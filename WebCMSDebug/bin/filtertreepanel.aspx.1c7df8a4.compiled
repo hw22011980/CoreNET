@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Lookup/FilterTreePanel.aspx" hash="fffffff004e2faca" filehash="d7838d7712576b11" flags="110000" assembly="App_Web_filtertreepanel.aspx.1c7df8a4" type="ASP.lookup_filtertreepanel_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Lookup/FilterTreePanel.aspx" />
+        <filedep name="/WebCMS/Lookup/FilterTreePanel.aspx.cs" />
+    </filedeps>
+</preserve>

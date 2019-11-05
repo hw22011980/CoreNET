@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/MasterHome.master" hash="fffffff65735c6cd" filehash="1e21dc22c5f98d33" flags="110000" assembly="App_Web_masterhome.master.cdcab7d2" type="ASP.masterhome_master">
+    <filedeps>
+        <filedep name="/WebCMS/MasterHome.master" />
+        <filedep name="/WebCMS/MasterHome.master.cs" />
+    </filedeps>
+</preserve>

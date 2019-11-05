@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/System/PrintWord.aspx" hash="fffffff004e2faca" filehash="2a48de8f6a01ad42" flags="110000" assembly="App_Web_printword.aspx.79613827" type="ASP.system_printword_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/System/PrintWord.aspx" />
+        <filedep name="/WebCMS/System/PrintWord.aspx.cs" />
+    </filedeps>
+</preserve>

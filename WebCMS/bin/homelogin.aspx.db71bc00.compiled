@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/App_Portal/HomeLogin.aspx" hash="fffffff65735c6cd" filehash="40637c1c34dca4ae" flags="110000" assembly="App_Web_homelogin.aspx.db71bc00" type="ASP.app_portal_homelogin_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/App_Portal/HomeLogin.aspx" />
+        <filedep name="/WebCMS/App_Portal/HomeLogin.aspx.cs" />
+        <filedep name="/WebCMS/MasterHome.master" />
+        <filedep name="/WebCMS/MasterHome.master.cs" />
+    </filedeps>
+</preserve>

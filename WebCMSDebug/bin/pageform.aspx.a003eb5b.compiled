@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Page/PageForm.aspx" hash="fffffff004e2faca" filehash="1cb626c4e97c3231" flags="110000" assembly="App_Web_pageform.aspx.a003eb5b" type="ASP.page_pageform_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Ascx/SharedMethods.ascx" />
+        <filedep name="/WebCMS/Ascx/SharedMethods.ascx.cs" />
+        <filedep name="/WebCMS/Ascx/TabularShared.ascx" />
+        <filedep name="/WebCMS/Ascx/TabularShared.ascx.cs" />
+        <filedep name="/WebCMS/Page/PageForm.aspx" />
+        <filedep name="/WebCMS/Page/PageForm.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Page/PageRdl.aspx" hash="fffffff004e2faca" filehash="a357cba818dff42f" flags="110000" assembly="App_Web_pagerdl.aspx.a003eb5b" type="ASP.page_pagerdl_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Page/PageRdl.aspx" />
+        <filedep name="/WebCMS/Page/PageRdl.aspx.cs" />
+    </filedeps>
+</preserve>
