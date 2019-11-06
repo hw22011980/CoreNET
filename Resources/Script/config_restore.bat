@@ -1,0 +1,5 @@
+mkdir "D:\CoreNET\Launcher\WebCMS"
+copy /y "D:\CoreNET\WebCMS\web.config"  "D:\CoreNET\Launcher\WebCMS\web.config" 
+mkdir "D:\CoreNET\Launcher\WebCMSDebug"
+copy /y "D:\CoreNET\WebCMSDebug\web.config"  "D:\CoreNET\Launcher\WebCMSDebug\web.config" 
+set /p temp="Hit enter to continue"
