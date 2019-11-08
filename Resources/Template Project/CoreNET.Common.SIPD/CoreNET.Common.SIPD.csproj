@@ -17,7 +17,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\Output\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -25,32 +25,35 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\Release\</OutputPath>
+    <OutputPath>..\Output\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CoreNET.Common.CR">
+      <HintPath>..\..\Bin\CoreNET.Common.CR.dll</HintPath>
+    </Reference>
     <Reference Include="CoreNET.Common.Data">
-      <HintPath>..\Bin\CoreNET.Common.Data.dll</HintPath>
+      <HintPath>..\..\Bin\CoreNET.Common.Data.dll</HintPath>
     </Reference>
     <Reference Include="CoreNET.Common.Ext">
-      <HintPath>..\Bin\CoreNET.Common.Ext.dll</HintPath>
+      <HintPath>..\..\Bin\CoreNET.Common.Ext.dll</HintPath>
     </Reference>
     <Reference Include="CoreNET.Common.Lib">
-      <HintPath>..\Bin\CoreNET.Common.Lib.dll</HintPath>
+      <HintPath>..\..\Bin\CoreNET.Common.Lib.dll</HintPath>
     </Reference>
     <Reference Include="CoreNET.Common.Sys">
-      <HintPath>..\Bin\CoreNET.Common.Sys.dll</HintPath>
+      <HintPath>..\..\Bin\CoreNET.Common.Sys.dll</HintPath>
     </Reference>
     <Reference Include="CoreNET.Common.UI">
-      <HintPath>..\Bin\CoreNET.Common.UI.dll</HintPath>
+      <HintPath>..\..\Bin\CoreNET.Common.UI.dll</HintPath>
     </Reference>
     <Reference Include="Ext.Net">
-      <HintPath>..\Bin\Ext.Net.dll</HintPath>
+      <HintPath>..\..\Bin\Ext.Net.dll</HintPath>
     </Reference>
     <Reference Include="Ext.Net.Utilities">
-      <HintPath>..\Bin\Ext.Net.Utilities.dll</HintPath>
+      <HintPath>..\..\Bin\Ext.Net.Utilities.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
