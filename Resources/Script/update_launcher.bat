@@ -6,3 +6,4 @@ xcopy /s/e/y/k/d "D:\CoreNET\Resources\Script\UpdateLauncher" "D:\CoreNET\Launch
 rem set /p temp="Hit enter to continue"
 
 D:\CoreNET\Launcher\CoreNETLauncher.exe
+
