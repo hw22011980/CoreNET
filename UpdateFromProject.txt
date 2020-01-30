@@ -1,0 +1,15 @@
+CoreNET.Common.Lib.dll
+CoreNET.Common.Data.dll
+CoreNET.Common.UI.dll
+CoreNET.Common.Ext.dll
+CoreNET.Common.Auth.dll
+CoreNET.Common.Sync.dll
+CoreNET.Common.PM.dll
+CoreNET.Common.ERP.dll
+pdb
+txt
+bat
+xml
+sql
+config
+dev2019
